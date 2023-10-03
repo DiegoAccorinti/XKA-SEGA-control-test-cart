@@ -1,5 +1,5 @@
 # XKA-SEGA-control-test-cart
-XKA SEGA test cart dump for preservation || Thanks to Nahuel Retegui for giving up the cartridge to be able to perform the dump and the photos of the PCB board and label.
+XKA SEGA test cart dump for preservation, by Diego Accorinti aka DoctorColeco || Thanks to Nahuel Retegui for giving up the cartridge to be able to perform the dump and the photos of the PCB board and label.
 
 EPROM 27C010 (I) dump ![here](eproms_dump/AM27C010@DIP32(eprom_1).BIN)
 
@@ -30,3 +30,5 @@ Dario Garcia
 Luciano ComYVen
 
 Alecu
+
+Nahuel Retegui
