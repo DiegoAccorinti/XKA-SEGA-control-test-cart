@@ -13,10 +13,12 @@ EPROM 27C010 (II) dump ![acá](eproms_dump/AM27C010@DIP32(eprom_2).BIN)
 ## ROM
 ![download XKA SEGA control (doctorcoleco).bin](https://github.com/DiegoAccorinti/XKA-SEGA-control-test-cart/blob/main/rom/XKA%20SEGA%20control%20(doctorcoleco).bin)
 
+Joined LO and HI usando ésta herramienta https://www.romhacking.net/utilities/1621/
+
 ## Emulador
 sudo apt install blastem
 
-## Donantes
+## Donantes * (sin chequear!)
 listado: https://www.jensma.de/md/index.php?search=5003
 
 ## Imágenes
