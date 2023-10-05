@@ -6,9 +6,6 @@ Hace unas semanas apareció Nahuel en un grupo comentando que tenía este cartuc
 
 A few weeks ago Nahuel appeared in a group commenting that he had this cartridge, which was not a game but a test program for SEGA GENESIS. I was interested because I have carts of this type for Colecovision, Atari 2600 and SNES but not from SEGA. So we started looking for the rom with our friends at Retro Fixers but nothing appeared anywhere about the cartridge. No photos, no dumps, nothing. So things got interesting and we started chatting with its owner to organize the preservation procedure (enabling its possible cloning) of the cartridge. Many thanks to Nahuel Retegui for providing this unique piece to be able to do the work of dumping the eproms and the photos of the PCB board and the label. Carried out in September 2023 at the DoctorColeco Lab in Floresta, City of Buenos Aires, Argentina. https://www.facebook.com/DoctorColecovision
 
-![](pics/screenshot_01.png)
-![](pics/screenshot_02.png)
-
 
 EPROM 27C010 (I) dump ![acá](eproms_dump/AM27C010@DIP32(eprom_1).BIN)
 
@@ -30,6 +27,13 @@ listado: https://www.jensma.de/md/index.php?search=5003
 ![](pics/PCB_with_eproms_mounted.jpeg)
 ![](pics/PCB_front.jpeg)
 ![](pics/PCB_back.jpeg)
+![](pics/screenshot_01.png)
+![](pics/screenshot_02.png)
+
+## Corriendo en un everdrive
+
+![](pics/everdrive01.jpeg)
+![](pics/everdrive02.jpeg)
 
 ## Gracias
 Retro Fixers Game Club
